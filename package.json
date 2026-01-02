@@ -1,0 +1,19 @@
+{
+  "name": "sistema-ingressos-nft",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de Ingressos NFT - Projeto Suga",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.4",
+    "@solana/web3.js": "^1.87.1"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.15.8",
+    "@swc/helpers": "^0.5.18",
+    "regenerator-runtime": "^0.14.1",
+    "tsx": "^4.21.0"
+  }
+}

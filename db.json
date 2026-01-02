@@ -1,0 +1,59 @@
+{
+  "ingressos": [
+    {
+      "mint": "MINT-TSX-WU8RLGZ",
+      "owner": "6m7LJcSSYE6qxdip34CJ2DWhMNuByXmqUChFYCCfu2f6",
+      "ticketId": "NFT-2450",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    },
+    {
+      "mint": "MINT-TSX-NQNPCYD",
+      "owner": "WALLET-SUGA-999",
+      "ticketId": "NFT-8780",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    },
+    {
+      "mint": "MINT-TSX-QW6LKUY",
+      "owner": "WALLET-SUGA-999",
+      "ticketId": "NFT-8727",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    },
+    {
+      "mint": "MINT-TSX-E9ZJWT5",
+      "owner": "WALLET-SUGA-999",
+      "ticketId": "NFT-6339",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    },
+    {
+      "mint": "MINT-TSX-RWJCLNQ",
+      "owner": "WALLET-SUGA-999",
+      "ticketId": "NFT-6305",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    },
+    {
+      "mint": "MINT-TSX-IDTU6F0",
+      "owner": "WALLET-SUGA-999",
+      "ticketId": "NFT-4248",
+      "batch": "LOTE_TSX_FINAL",
+      "price": 0.5,
+      "royaltyPercent": 5,
+      "isLocked": false
+    }
+  ],
+  "ordensVenda": []
+}

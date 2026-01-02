@@ -1,0 +1,7 @@
+node_modules/
+.env
+carteira-admin.json
+database.json
+dist/
+carteira-dev.json
+.env
